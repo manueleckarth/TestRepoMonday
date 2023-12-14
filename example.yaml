@@ -1,0 +1,12 @@
+# Sample YAML File
+name: John Doe
+age: 30
+city: Exampletown
+is_student: false
+grades:
+  - subject: Math
+    grade: A
+  - subject: English
+    grade: B
+  - subject: Science
+    grade: C
