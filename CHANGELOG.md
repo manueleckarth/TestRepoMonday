@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/manueleckarth/TestRepoMonday/compare/v1.2.0...v1.2.1) (2023-12-18)
+
+
+### Bug Fixes
+
+* subject name ([3c0b133](https://github.com/manueleckarth/TestRepoMonday/commit/3c0b133b950d4b1b233c7aeb698098ef82dc04d6))
+
 ## [1.2.0](https://github.com/manueleckarth/TestRepoMonday/compare/v1.1.0...v1.2.0) (2023-12-18)
 
 
