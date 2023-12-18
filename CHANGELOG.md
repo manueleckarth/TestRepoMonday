@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/manueleckarth/TestRepoMonday/compare/v1.1.0...v1.2.0) (2023-12-18)
+
+
+### Features
+
+* New feature ([e554c0b](https://github.com/manueleckarth/TestRepoMonday/commit/e554c0b2c10f02eb2c3b9528a2662ff65c429e7d))
+
+
+### Bug Fixes
+
+* Changed subject with grade B ([5148092](https://github.com/manueleckarth/TestRepoMonday/commit/51480926f70bab090e5beb0f29f5835ab5bc95f8))
+
 ## [1.1.0](https://github.com/manueleckarth/TestRepoMonday/compare/v1.0.0...v1.1.0) (2023-12-18)
 
 
