@@ -6,7 +6,7 @@ is_student: false
 grades:
   - subject: Math
     grade: A
-  - subject: EnglishAndGerman
+  - subject: EnglishAndGermanAndDutch
     grade: B
   - subject: Science
     grade: C
