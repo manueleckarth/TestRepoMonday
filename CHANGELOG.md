@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.0.0](https://github.com/manueleckarth/TestRepoMonday/compare/v1.2.2...v2.0.0) (2023-12-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* testfeature
+* Added breaking feature
+
+### Features
+
+* Added breaking feature ([6faa11f](https://github.com/manueleckarth/TestRepoMonday/commit/6faa11ffbe07ebd4b1838b6b3caa14ff0b0c2414))
+* testfeature ([19462af](https://github.com/manueleckarth/TestRepoMonday/commit/19462af3ba0d22396486753445bad8a36e0ecb32))
+
 ## [1.2.2](https://github.com/manueleckarth/TestRepoMonday/compare/v1.2.1...v1.2.2) (2023-12-18)
 
 
